@@ -4,6 +4,11 @@ I’m Tulsi! When I'm not managing a team of Support Engineers, you can find me 
 
 I hold my Master's degree in MIS (Management Information Systems), where I dabbled with code. I am looking to advance my coding skills while remaining client focused.
 
+
+Front end code I put together to accomplish day to day requests I receive for wordpress clients:
+<br>[Application: A game where successful clicks correspond to an increase in your score](https://github.com/KuberDown1/Java-OOP)
+
+
 You can find some of my work from my Master's program here:
 <br>[Application: A game where successful clicks correspond to an increase in your score](https://github.com/KuberDown1/Java-OOP)
 <br>[Application: The calculation and conversion of time](https://github.com/KuberDown1/Java-OOP-2-)
