@@ -2,11 +2,9 @@ Hey there 👋
 
 I’m Tulsi! When I'm not managing a team of Support Engineers, you can find me stepping in as a Project Manager. I shine in that funky space between developers and end users- It's my mission to provide excellent customer service while acting as a technical liason.
 
-I hold my Master's degree in MIS (Management Information Systems), where I dabbled with code. I am looking to advance my coding skills while remaining client focused.
+<br> I hold my Master's degree in MIS (Management Information Systems), where I dabbled with code. I am looking to advance my coding skills while remaining client focused.
 
-
-Front end code I put together to accomplish day to day requests I receive for wordpress clients:
-<br>[Application: A game where successful clicks correspond to an increase in your score](https://github.com/KuberDown1/Java-OOP)
+<br>[One of many examples where I write front end code and implement these changes via a wordpress plug in or theme](https://github.com/KuberDown1/wordpressCustomizations.git)
 
 
 You can find some of my work from my Master's program here:
